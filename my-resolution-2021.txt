@@ -13,4 +13,4 @@ Resolution 2021
 
 
 More :
-- Learn Git and Github 
+- Git and Github 
